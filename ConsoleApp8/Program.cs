@@ -24,7 +24,7 @@ namespace ConsoleApp8
 
             Int_Class SumOSum = new Int_Class(10, 20, 30);
             Console.WriteLine(SumOSum.NUM3); 
-                
+                //comment for git example
 
         }
     }
